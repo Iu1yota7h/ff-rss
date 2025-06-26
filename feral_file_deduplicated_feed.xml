@@ -1,1 +1,9 @@
-
+<?xml version="1.0" ?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Feral File Newsletter Archive</title>
+    <link>https://feralfile.substack.com</link>
+    <description>Deduplicated archive of Feral File newsletters</description>
+    <language>en-us</language>
+  </channel>
+</rss>
